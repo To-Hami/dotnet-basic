@@ -12,7 +12,8 @@ namespace myApp
             // name your function 
             // handel your function 
             // run your app using dotnet run 
-            Console.WriteLine("hello tohami");
+            int number = 30 ;
+                 Console.WriteLine("hello tohami your number is => " + number) ;
         }
     }
 
